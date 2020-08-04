@@ -1,0 +1,9 @@
+name: myAgreement
+products:
+- name: Product 1
+  price: 100.5
+  products:
+  - name: Product 2
+    price: 50.3
+    products: []
+signedBy: Jhon Doe
